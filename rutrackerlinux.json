@@ -2,6 +2,14 @@
     "name": "RuTracker | Linux",
     "downloads": [
         {
+            "title": "Old World (1.0.78053 Release 2025-05-28 + 6 DLC) [amd64] [RUS + ENG + 7] [Unity3D]",
+            "uris": [
+                "magnet:?xt=urn:btih:C78EB177E881443BE7828DA39C9FC34378A11FE6&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "3.22 GB",
+            "uploadDate": "2025-05-29T00:00:00.000Z"
+        },
+        {
             "title": "Mandragora: Whispers of the Witch Tree (2025) (v.1.5.0.2325) [amd64] [MULTi] [Wine]",
             "uris": [
                 "magnet:?xt=urn:btih:C60D717495562DC139EE8FEE52504B3871E40257&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
@@ -87,6 +95,14 @@
                 "magnet:?xt=urn:btih:D4E284DD7450B7A9756D78C379FB448A2D132C7E&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
             ],
             "fileSize": "52.58 GB",
+            "uploadDate": "2025-05-28T00:00:00.000Z"
+        },
+        {
+            "title": "Stardeus [amd64] [Multi] [Unity3D]",
+            "uris": [
+                "magnet:?xt=urn:btih:BCE1C734ECECAE8C99DA6C3E1F0FCC72244BB14C&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "824.6 MB",
             "uploadDate": "2025-05-28T00:00:00.000Z"
         },
         {
@@ -3288,14 +3304,6 @@
             ],
             "fileSize": "1.58 GB",
             "uploadDate": "2025-02-26T00:00:00.000Z"
-        },
-        {
-            "title": "Stardeus [amd64] [Multi] [Unity3D]",
-            "uris": [
-                "magnet:?xt=urn:btih:3D0D180FF5666F1178652524BE6DE10A1C070215&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
-            ],
-            "fileSize": "747.2 MB",
-            "uploadDate": "2025-02-25T00:00:00.000Z"
         },
         {
             "title": "The Casting of Frank Stone [amd64] [Multi] [Wine]",
