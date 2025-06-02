@@ -2,6 +2,46 @@
     "name": "RuTracker | Linux",
     "downloads": [
         {
+            "title": "The Sims 4 (Deluxe Edition) [amd64] [Multi] [Wine]",
+            "uris": [
+                "magnet:?xt=urn:btih:7F08629DE73C628403D331FB39384FCCB73866A1&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "69.51 GB",
+            "uploadDate": "2025-06-02T00:00:00.000Z"
+        },
+        {
+            "title": "Sonic Unleashed [1.0.3 + 6 DLC] [amd64] [ENG + 5] [Unofficial] [Native] [Open Source]",
+            "uris": [
+                "magnet:?xt=urn:btih:4290EC447F43B2E426A66D6F30C9B5191EA56681&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "8.11 GB",
+            "uploadDate": "2025-06-02T00:00:00.000Z"
+        },
+        {
+            "title": "Tainted Grail: The Fall of Avalon [amd64] [Multi] [Wine]",
+            "uris": [
+                "magnet:?xt=urn:btih:91DA9CB2B621B2C9C574D88A3FDBA13F7FB9B289&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "18.01 GB",
+            "uploadDate": "2025-06-02T00:00:00.000Z"
+        },
+        {
+            "title": "Old World (1.0.78114 Release 2025-06-02 + 6 DLC) [amd64] [RUS + ENG + 7] [Unity3D]",
+            "uris": [
+                "magnet:?xt=urn:btih:D3FF5B65244023C8F7281DE034B6EA1803A82935&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "3.22 GB",
+            "uploadDate": "2025-06-02T00:00:00.000Z"
+        },
+        {
+            "title": "X4: Foundations: Hyperion Pack - Community of Planets Collector's Edition + 6 DLC (7.60 build 82340) [amd64] [Multi] [Native] [GOG]",
+            "uris": [
+                "magnet:?xt=urn:btih:C9A003FA2B991DC83C1C1ED1D7BB3452219994BE&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "28.41 GB",
+            "uploadDate": "2025-06-01T00:00:00.000Z"
+        },
+        {
             "title": "ELDEN RING NIGHTREIGN Deluxe Edition (2025) (v.1.01) [amd64] [Wine]",
             "uris": [
                 "magnet:?xt=urn:btih:CC11631058BADCE28495054E27587FE6B216D988&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
@@ -2434,14 +2474,6 @@
             "uploadDate": "2025-04-06T00:00:00.000Z"
         },
         {
-            "title": "The Sims 4 (Deluxe Edition) [amd64] [Multi] [Wine]",
-            "uris": [
-                "magnet:?xt=urn:btih:FB3A228EFDAF71993818A9D65B310D32FCA7383F&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
-            ],
-            "fileSize": "69.07 GB",
-            "uploadDate": "2025-04-05T00:00:00.000Z"
-        },
-        {
             "title": "Gothic 2 - The Chronicles of Myrtana: Archolos / Хроники Миртаны: Архолос [x86] [RUS / ENG] [Wine]",
             "uris": [
                 "magnet:?xt=urn:btih:8C0479EB3792E47F28B5A3D3356CE5608238E127&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
@@ -2455,14 +2487,6 @@
                 "magnet:?xt=urn:btih:2D50458D7C768DBD257ECA4655EECE834E95D3A8&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
             ],
             "fileSize": "56.93 GB",
-            "uploadDate": "2025-04-05T00:00:00.000Z"
-        },
-        {
-            "title": "Sonic Unleashed [1.0.3 + 6 DLC] [amd64] [ENG + 5] [Unofficial] [Native] [Open Source]",
-            "uris": [
-                "magnet:?xt=urn:btih:0E9454E5C4CF3BD9AFED24EE54E1A1CEF2AAB0E9&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
-            ],
-            "fileSize": "8.19 GB",
             "uploadDate": "2025-04-05T00:00:00.000Z"
         },
         {
