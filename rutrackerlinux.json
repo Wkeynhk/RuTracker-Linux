@@ -2,6 +2,22 @@
     "name": "RuTracker | Linux",
     "downloads": [
         {
+            "title": "Grim Dawn [amd64] [Multi] [Wine]",
+            "uris": [
+                "magnet:?xt=urn:btih:4883C4B120AF5EF8D78B52BDDB817CB4122F8709&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "10.32 GB",
+            "uploadDate": "2025-06-03T00:00:00.000Z"
+        },
+        {
+            "title": "ELDEN RING NIGHTREIGN Deluxe Edition (2025) (v.1.01.1/1.01.2) + 4 DLC + Co-Op [amd64] [Wine]",
+            "uris": [
+                "magnet:?xt=urn:btih:71B292C7293BB3617DC334D5D9E5EA44E83CB98A&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "19.69 GB",
+            "uploadDate": "2025-06-03T00:00:00.000Z"
+        },
+        {
             "title": "The Sims 4 (Deluxe Edition) [amd64] [Multi] [Wine]",
             "uris": [
                 "magnet:?xt=urn:btih:7F08629DE73C628403D331FB39384FCCB73866A1&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
@@ -2048,14 +2064,6 @@
             ],
             "fileSize": "13.17 GB",
             "uploadDate": "2025-04-19T00:00:00.000Z"
-        },
-        {
-            "title": "Grim Dawn [amd64] [Multi] [Wine]",
-            "uris": [
-                "magnet:?xt=urn:btih:FA4B978DB72474B02D02F469612C852B00812E5B&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
-            ],
-            "fileSize": "10.32 GB",
-            "uploadDate": "2025-04-18T00:00:00.000Z"
         },
         {
             "title": "Commandos: Origins (2025) (v.1.1.0.76003) + 3 DLC [amd64] [MULTi] [Wine]",
