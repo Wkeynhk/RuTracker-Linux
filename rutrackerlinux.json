@@ -2,6 +2,38 @@
     "name": "RuTracker | Linux",
     "downloads": [
         {
+            "title": "Clair Obscur: Expedition 33 - Deluxe Edition Upgrade (2025) (v.56442) [amd64] [MULTi] [Wine]",
+            "uris": [
+                "magnet:?xt=urn:btih:6330840B37FCF50019114F5D4AA3E712C2ADDFDA&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "38.46 GB",
+            "uploadDate": "2025-06-04T00:00:00.000Z"
+        },
+        {
+            "title": "TEKKEN 8: Ultimate Edition (v.2.02.00) + 24 DLC [amd64] [Multi] [Wine]",
+            "uris": [
+                "magnet:?xt=urn:btih:46335F5D463F92A3BDA1DE6695A7BAA4415494B1&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "101.37 GB",
+            "uploadDate": "2025-06-04T00:00:00.000Z"
+        },
+        {
+            "title": "Cyber Knights: Flashpoint (2025) (v.2.0.9) [ENG] [Unity3D]",
+            "uris": [
+                "magnet:?xt=urn:btih:862966C84361ECD50D15248A1FCAE893FEDADA71&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "7.49 GB",
+            "uploadDate": "2025-06-04T00:00:00.000Z"
+        },
+        {
+            "title": "Cattle Country (2025) (v.25.6.1) [amd64] [ENG] [FNA-XNA]",
+            "uris": [
+                "magnet:?xt=urn:btih:52DCD64BC09AAD19679A6E8D7E63CA602352EFB3&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "181.6 MB",
+            "uploadDate": "2025-06-04T00:00:00.000Z"
+        },
+        {
             "title": "Grim Dawn [amd64] [Multi] [Wine]",
             "uris": [
                 "magnet:?xt=urn:btih:4883C4B120AF5EF8D78B52BDDB817CB4122F8709&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
@@ -15,6 +47,22 @@
                 "magnet:?xt=urn:btih:71B292C7293BB3617DC334D5D9E5EA44E83CB98A&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
             ],
             "fileSize": "19.69 GB",
+            "uploadDate": "2025-06-03T00:00:00.000Z"
+        },
+        {
+            "title": "Minecraft (1.7.10 + 1.12.2 + 1.16.5 + 1.18.2 + 1.19.4 + 1.20.6 + 1.21.5) (Tricky Trials) [x86, amd64] [Multi] [Java]",
+            "uris": [
+                "magnet:?xt=urn:btih:701634ACCB9ADE2F8524261AF922B19AFB958626&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "4.51 GB",
+            "uploadDate": "2025-06-03T00:00:00.000Z"
+        },
+        {
+            "title": "Driver: San Francisco [amd64] [ENG] [Wine]",
+            "uris": [
+                "magnet:?xt=urn:btih:04375DB275BECAA1FDB1291CEB3500B6E2CEA222&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "7.56 GB",
             "uploadDate": "2025-06-03T00:00:00.000Z"
         },
         {
@@ -495,14 +543,6 @@
                 "magnet:?xt=urn:btih:1F204CD9EA097DF8076C51C8D8781F93645AA586&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
             ],
             "fileSize": "41.17 GB",
-            "uploadDate": "2025-05-23T00:00:00.000Z"
-        },
-        {
-            "title": "Clair Obscur: Expedition 33 - Deluxe Edition Upgrade (2025) (v.56442) [amd64] [MULTi] [Wine]",
-            "uris": [
-                "magnet:?xt=urn:btih:6021DECA404DAB0076C01A2EAD32DEA263AAA1C1&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
-            ],
-            "fileSize": "38.32 GB",
             "uploadDate": "2025-05-23T00:00:00.000Z"
         },
         {
@@ -1095,14 +1135,6 @@
                 "magnet:?xt=urn:btih:70C5164492783007C39A76B88F86B51B859054D6&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
             ],
             "fileSize": "80.38 GB",
-            "uploadDate": "2025-05-12T00:00:00.000Z"
-        },
-        {
-            "title": "Minecraft (1.7.10 + 1.12.2 + 1.16.5 + 1.18.2 + 1.19.4 + 1.20.6 + 1.21.5) (Tricky Trials) [x86, amd64] [Multi] [Java]",
-            "uris": [
-                "magnet:?xt=urn:btih:8956D66072773C47BF7D8710BBB9C6CDDC12E7D6&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
-            ],
-            "fileSize": "4.51 GB",
             "uploadDate": "2025-05-12T00:00:00.000Z"
         },
         {
