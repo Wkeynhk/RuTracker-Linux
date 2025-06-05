@@ -2,6 +2,54 @@
     "name": "RuTracker | Linux",
     "downloads": [
         {
+            "title": "Forza Horizon 5: Premium Edition [amd64] [Multi] [Wine]",
+            "uris": [
+                "magnet:?xt=urn:btih:91B371AA50ABC831CDA52B5FA6D4A614997E37A6&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "177.01 GB",
+            "uploadDate": "2025-06-05T00:00:00.000Z"
+        },
+        {
+            "title": "Cattle Country (2025) (v.25.6.3) [amd64] [ENG] [FNA-XNA]",
+            "uris": [
+                "magnet:?xt=urn:btih:FE72EBDC07F1BA04F99E54C01E80BE7B232D17A9&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "182.1 MB",
+            "uploadDate": "2025-06-05T00:00:00.000Z"
+        },
+        {
+            "title": "Cyber Knights: Flashpoint (2025) (v.2.0.11) [amd64] [ENG] [Unity3D]",
+            "uris": [
+                "magnet:?xt=urn:btih:D406C3257C0B852377B7DD0895ABFB1AFCA310BC&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "7.49 GB",
+            "uploadDate": "2025-06-05T00:00:00.000Z"
+        },
+        {
+            "title": "Hex of Steel (v.7.7.33 Patch 1 build 18737580 (04.06.2025)) [amd64] [ENG] [Unity3D]",
+            "uris": [
+                "magnet:?xt=urn:btih:9CDCE9AECD65A554E535AC2BE64334C65440E10D&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "370.7 MB",
+            "uploadDate": "2025-06-05T00:00:00.000Z"
+        },
+        {
+            "title": "Crusader Kings III: Khans of the Steppe - Royal Edition (v.1.16.2.3) + Irony Mod Manager + All DLC [MULTi] [Native]",
+            "uris": [
+                "magnet:?xt=urn:btih:405AF0352C8AD48B2A2109305DB4276ED7638561&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "5.21 GB",
+            "uploadDate": "2025-06-05T00:00:00.000Z"
+        },
+        {
+            "title": "Stellaris (4.0.15 + 31 DLC) [amd64] [Native] [RUS + ENG + 6] [GOG]",
+            "uris": [
+                "magnet:?xt=urn:btih:5156E05AB8B788EFF83BF9FAE68183A0C5DA3E17&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "16.39 GB",
+            "uploadDate": "2025-06-05T00:00:00.000Z"
+        },
+        {
             "title": "Clair Obscur: Expedition 33 - Deluxe Edition Upgrade (2025) (v.56442) [amd64] [MULTi] [Wine]",
             "uris": [
                 "magnet:?xt=urn:btih:6330840B37FCF50019114F5D4AA3E712C2ADDFDA&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
@@ -31,6 +79,14 @@
                 "magnet:?xt=urn:btih:52DCD64BC09AAD19679A6E8D7E63CA602352EFB3&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
             ],
             "fileSize": "181.6 MB",
+            "uploadDate": "2025-06-04T00:00:00.000Z"
+        },
+        {
+            "title": "Liftoff: FPV Drone Racing [amd64] [ENG + 2] (1.6.13 + 3 DLC) [Unity3D]",
+            "uris": [
+                "magnet:?xt=urn:btih:01020B9A2D6C6D8D3845C19F6871299148BC0875&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "23.3 GB",
             "uploadDate": "2025-06-04T00:00:00.000Z"
         },
         {
@@ -175,14 +231,6 @@
                 "magnet:?xt=urn:btih:20F59CB4DD575A8FC218DE5EA64E6446AA1CD0B1&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
             ],
             "fileSize": "3.56 GB",
-            "uploadDate": "2025-05-28T00:00:00.000Z"
-        },
-        {
-            "title": "Forza Horizon 5: Premium Edition [amd64] [Multi] [Wine]",
-            "uris": [
-                "magnet:?xt=urn:btih:CDFB05B75ED374D4DE1BA84C8D6DE3FDF1F6EE0A&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
-            ],
-            "fileSize": "176.28 GB",
             "uploadDate": "2025-05-28T00:00:00.000Z"
         },
         {
