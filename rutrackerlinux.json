@@ -2,6 +2,22 @@
     "name": "RuTracker | Linux",
     "downloads": [
         {
+            "title": "Kingdom Come: Deliverance II (2) [amd64] [Multi] [Wine]",
+            "uris": [
+                "magnet:?xt=urn:btih:2508FD97A4A09DA1F29B608D60256E704792AA8A&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "83.61 GB",
+            "uploadDate": "2025-06-06T00:00:00.000Z"
+        },
+        {
+            "title": "Stellaris (4.0.16 + 31 DLC) [amd64] [Native] [RUS + ENG + 6] [GOG]",
+            "uris": [
+                "magnet:?xt=urn:btih:8FD2AFEEF4CC97DB982E0508230E13E17B5454B3&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "16.39 GB",
+            "uploadDate": "2025-06-06T00:00:00.000Z"
+        },
+        {
             "title": "Forza Horizon 5: Premium Edition [amd64] [Multi] [Wine]",
             "uris": [
                 "magnet:?xt=urn:btih:91B371AA50ABC831CDA52B5FA6D4A614997E37A6&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
@@ -999,14 +1015,6 @@
                 "magnet:?xt=urn:btih:68DD79F5B501F7C71B50A9392930506779774A31&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
             ],
             "fileSize": "775.2 MB",
-            "uploadDate": "2025-05-16T00:00:00.000Z"
-        },
-        {
-            "title": "Kingdom Come: Deliverance II (2) [amd64] [Multi] [Wine]",
-            "uris": [
-                "magnet:?xt=urn:btih:D1C32D27768140EC6DB8E8F623D9393CECF01437&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
-            ],
-            "fileSize": "83.62 GB",
             "uploadDate": "2025-05-16T00:00:00.000Z"
         },
         {
