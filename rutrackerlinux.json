@@ -2,6 +2,22 @@
     "name": "RuTracker | Linux",
     "downloads": [
         {
+            "title": "ELDEN RING NIGHTREIGN Deluxe Edition (2025) (v.1.01.1/1.01.2) + 4 DLC + Co-Op [amd64] [Multi] [Wine]",
+            "uris": [
+                "magnet:?xt=urn:btih:71B292C7293BB3617DC334D5D9E5EA44E83CB98A&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "19.69 GB",
+            "uploadDate": "2025-06-07T00:00:00.000Z"
+        },
+        {
+            "title": "Need for Speed: Carbon [x86] [ENG] [Wine] [Mods+sandbox]",
+            "uris": [
+                "magnet:?xt=urn:btih:59F917B805665422004392E72CA997149266DE95&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "3.14 GB",
+            "uploadDate": "2025-06-07T00:00:00.000Z"
+        },
+        {
             "title": "Kingdom Come: Deliverance II (2) [amd64] [Multi] [Wine]",
             "uris": [
                 "magnet:?xt=urn:btih:2508FD97A4A09DA1F29B608D60256E704792AA8A&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
@@ -15,6 +31,62 @@
                 "magnet:?xt=urn:btih:8FD2AFEEF4CC97DB982E0508230E13E17B5454B3&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
             ],
             "fileSize": "16.39 GB",
+            "uploadDate": "2025-06-06T00:00:00.000Z"
+        },
+        {
+            "title": "Tainted Grail: The Fall of Avalon [amd64] [Multi] [Wine]",
+            "uris": [
+                "magnet:?xt=urn:btih:BD832F90C8413E524F545C9E8443DE88D05AC344&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "18 GB",
+            "uploadDate": "2025-06-06T00:00:00.000Z"
+        },
+        {
+            "title": "Enshrouded [amd64] [Multi] [Wine]",
+            "uris": [
+                "magnet:?xt=urn:btih:C94343ABF9E3C82EB3D782644A2C674B77A55DA1&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "17.98 GB",
+            "uploadDate": "2025-06-06T00:00:00.000Z"
+        },
+        {
+            "title": "Stardeus [amd64] [Multi] [Unity3D]",
+            "uris": [
+                "magnet:?xt=urn:btih:2C476F785F4414D268818FAA52D9E47D8BDF2A21&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "824.7 MB",
+            "uploadDate": "2025-06-06T00:00:00.000Z"
+        },
+        {
+            "title": "No Man's Sky [amd64] [Multi] [Wine]",
+            "uris": [
+                "magnet:?xt=urn:btih:92A3CEB579A225FEED1BA7BC010743E3683325B1&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "22.56 GB",
+            "uploadDate": "2025-06-06T00:00:00.000Z"
+        },
+        {
+            "title": "XCOM 2: War of the Chosen (v.build 8270065) + 7 DLC [MULTi] [Native]",
+            "uris": [
+                "magnet:?xt=urn:btih:EA0396E45E521F360B90C84F395B1D4722E9A903&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "61.37 GB",
+            "uploadDate": "2025-06-06T00:00:00.000Z"
+        },
+        {
+            "title": "MegaFactory Titan (v.0.9.4.0) [amd64] [ENG] [Native]",
+            "uris": [
+                "magnet:?xt=urn:btih:EDD539360D77F5863BC6CB61E69B52FA8B99779B&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "358.7 MB",
+            "uploadDate": "2025-06-06T00:00:00.000Z"
+        },
+        {
+            "title": "A Tower Full of Cats: New Stage Gattaca (v.20250603) [amd64] [Multi] [Godot]",
+            "uris": [
+                "magnet:?xt=urn:btih:F820621C77DFE57EB848AF693F510508CF74DCD8&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "603.8 MB",
             "uploadDate": "2025-06-06T00:00:00.000Z"
         },
         {
@@ -154,14 +226,6 @@
             "uploadDate": "2025-06-02T00:00:00.000Z"
         },
         {
-            "title": "Tainted Grail: The Fall of Avalon [amd64] [Multi] [Wine]",
-            "uris": [
-                "magnet:?xt=urn:btih:91DA9CB2B621B2C9C574D88A3FDBA13F7FB9B289&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
-            ],
-            "fileSize": "18.01 GB",
-            "uploadDate": "2025-06-02T00:00:00.000Z"
-        },
-        {
             "title": "Old World (1.0.78114 Release 2025-06-02 + 6 DLC) [amd64] [RUS + ENG + 7] [Unity3D]",
             "uris": [
                 "magnet:?xt=urn:btih:D3FF5B65244023C8F7281DE034B6EA1803A82935&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
@@ -274,14 +338,6 @@
             "uploadDate": "2025-05-28T00:00:00.000Z"
         },
         {
-            "title": "Enshrouded [amd64] [Multi] [Wine]",
-            "uris": [
-                "magnet:?xt=urn:btih:3CBF2A0ACB25C5DF5FEFC2F4F788DEBEF9413C90&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
-            ],
-            "fileSize": "18.01 GB",
-            "uploadDate": "2025-05-28T00:00:00.000Z"
-        },
-        {
             "title": "12 Labours of Hercules Collector's Edition Collection (Parts I-XVII) [x86] [Multi] [Native]",
             "uris": [
                 "magnet:?xt=urn:btih:31F347DBD20D522E459D1FDBC68CA8F3BEC0E1BB&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
@@ -303,14 +359,6 @@
                 "magnet:?xt=urn:btih:D4E284DD7450B7A9756D78C379FB448A2D132C7E&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
             ],
             "fileSize": "52.58 GB",
-            "uploadDate": "2025-05-28T00:00:00.000Z"
-        },
-        {
-            "title": "Stardeus [amd64] [Multi] [Unity3D]",
-            "uris": [
-                "magnet:?xt=urn:btih:BCE1C734ECECAE8C99DA6C3E1F0FCC72244BB14C&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
-            ],
-            "fileSize": "824.6 MB",
             "uploadDate": "2025-05-28T00:00:00.000Z"
         },
         {
@@ -1704,14 +1752,6 @@
             ],
             "fileSize": "321.3 MB",
             "uploadDate": "2025-05-01T00:00:00.000Z"
-        },
-        {
-            "title": "No Man's Sky [amd64] [Multi] [Wine]",
-            "uris": [
-                "magnet:?xt=urn:btih:448FD41A5BBC8655D55C449A31421DC9B8A3EC82&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
-            ],
-            "fileSize": "22.45 GB",
-            "uploadDate": "2025-04-30T00:00:00.000Z"
         },
         {
             "title": "Grand Theft Auto IV (Complete Edition) [x86] [Multi] [Wine]",
