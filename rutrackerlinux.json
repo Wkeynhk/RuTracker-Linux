@@ -18,19 +18,51 @@
             "uploadDate": "2025-06-07T00:00:00.000Z"
         },
         {
+            "title": "Stellaris (4.0.16 + 31 DLC) [amd64] [Native] [RUS + ENG + 6] [GOG]",
+            "uris": [
+                "magnet:?xt=urn:btih:991122D863B7AD35DB03BF6B799BD28958618568&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "16.39 GB",
+            "uploadDate": "2025-06-07T00:00:00.000Z"
+        },
+        {
+            "title": "Indiana Jones and the Great Circle [amd64] [Multi] [Wine]",
+            "uris": [
+                "magnet:?xt=urn:btih:A888F88CE03C14C83F9EBE1E8D36EEAE0D693403&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "113.85 GB",
+            "uploadDate": "2025-06-07T00:00:00.000Z"
+        },
+        {
+            "title": "X-COM: Terror from the Deep (v.2.1 build 28046) + Bonus [MULTi4] [x86, amd64] [MULTi4] [DosBox]",
+            "uris": [
+                "magnet:?xt=urn:btih:5B30B766222C36642EF459A55339F6CD4FB0081E&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "86.8 MB",
+            "uploadDate": "2025-06-07T00:00:00.000Z"
+        },
+        {
+            "title": "XCOM 2: War of the Chosen (v.build 8270065) + 7 DLC [amd64] [Multi] [Native]",
+            "uris": [
+                "magnet:?xt=urn:btih:EA0396E45E521F360B90C84F395B1D4722E9A903&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "61.37 GB",
+            "uploadDate": "2025-06-07T00:00:00.000Z"
+        },
+        {
+            "title": "X-COM: UFO Defense + X-COM: Terror from the Deep (OpenXcom) (v.2025-02-07) [x86, amd64] [ENG] [Native]",
+            "uris": [
+                "magnet:?xt=urn:btih:9272EE25176A13DCA3EF19776E65970FB2AFE10C&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "48.1 MB",
+            "uploadDate": "2025-06-07T00:00:00.000Z"
+        },
+        {
             "title": "Kingdom Come: Deliverance II (2) [amd64] [Multi] [Wine]",
             "uris": [
                 "magnet:?xt=urn:btih:2508FD97A4A09DA1F29B608D60256E704792AA8A&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
             ],
             "fileSize": "83.61 GB",
-            "uploadDate": "2025-06-06T00:00:00.000Z"
-        },
-        {
-            "title": "Stellaris (4.0.16 + 31 DLC) [amd64] [Native] [RUS + ENG + 6] [GOG]",
-            "uris": [
-                "magnet:?xt=urn:btih:8FD2AFEEF4CC97DB982E0508230E13E17B5454B3&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
-            ],
-            "fileSize": "16.39 GB",
             "uploadDate": "2025-06-06T00:00:00.000Z"
         },
         {
@@ -863,14 +895,6 @@
                 "magnet:?xt=urn:btih:CCD9CAD32494E3CE5550A02F2867714899136B21&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
             ],
             "fileSize": "55.2 GB",
-            "uploadDate": "2025-05-19T00:00:00.000Z"
-        },
-        {
-            "title": "Indiana Jones and the Great Circle [amd64] [Multi] [Wine]",
-            "uris": [
-                "magnet:?xt=urn:btih:740731AF88B75538AE25BE264DACBEBF0F02AE6B&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
-            ],
-            "fileSize": "113.92 GB",
             "uploadDate": "2025-05-19T00:00:00.000Z"
         },
         {
