@@ -2,11 +2,35 @@
     "name": "RuTracker | Linux",
     "downloads": [
         {
+            "title": "Cyber Knights: Flashpoint (2025) (v.2.0.17) [amd64] [ENG] [Unity3D]",
+            "uris": [
+                "magnet:?xt=urn:btih:9E41CBE3E4FB2886ABC0217B5AF5D3710AEF68CA&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "7.51 GB",
+            "uploadDate": "2025-06-09T00:00:00.000Z"
+        },
+        {
             "title": "AI War 2 (5.703 + 3 DLC) [amd64] [ENG] [Unity3D] [GOG]",
             "uris": [
                 "magnet:?xt=urn:btih:1C74E9047D9B1A00405F2BC75383ED66F17FFBFD&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
             ],
             "fileSize": "2.59 GB",
+            "uploadDate": "2025-06-08T00:00:00.000Z"
+        },
+        {
+            "title": "Project Zomboid [x86, amd64] [Multi] [Java] [GOG]",
+            "uris": [
+                "magnet:?xt=urn:btih:8C78BA0B1DF4D3996AC4BEBF08A39A9894FF647F&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "7.34 GB",
+            "uploadDate": "2025-06-08T00:00:00.000Z"
+        },
+        {
+            "title": "Sid Meier's Civilization VII: Deluxe Edition (7) (v.1.2.1 (1132198)) + 15 DLC [MULTi] [Native] [amd64]",
+            "uris": [
+                "magnet:?xt=urn:btih:24117EB74367826F22B40C0FEFDA7FD27D095041&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "13.98 GB",
             "uploadDate": "2025-06-08T00:00:00.000Z"
         },
         {
@@ -639,14 +663,6 @@
                 "magnet:?xt=urn:btih:D0EBCDA8280AB811B0DC4B862D2915F5C273138C&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
             ],
             "fileSize": "10.98 GB",
-            "uploadDate": "2025-05-24T00:00:00.000Z"
-        },
-        {
-            "title": "Project Zomboid [x86, amd64] [Multi] [Java] [GOG]",
-            "uris": [
-                "magnet:?xt=urn:btih:BAD036FA8100263FA25D794E8203BB606A558D53&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
-            ],
-            "fileSize": "2.44 GB",
             "uploadDate": "2025-05-24T00:00:00.000Z"
         },
         {
