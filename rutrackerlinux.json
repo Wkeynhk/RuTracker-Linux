@@ -10,6 +10,38 @@
             "uploadDate": "2025-06-12T00:00:00.000Z"
         },
         {
+            "title": "The Planet Crafter [amd64] [Multi] [Wine]",
+            "uris": [
+                "magnet:?xt=urn:btih:C36B1DD5798F6DECF233BCDECF61262D0DDE2FF3&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "2.78 GB",
+            "uploadDate": "2025-06-12T00:00:00.000Z"
+        },
+        {
+            "title": "Clair Obscur: Expedition 33 - Deluxe Edition Upgrade (2025) (v.57069) [amd64] [MULTi] [Wine]",
+            "uris": [
+                "magnet:?xt=urn:btih:32A760B196AA369F74970C8C7A473435D544E2B7&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "38.48 GB",
+            "uploadDate": "2025-06-12T00:00:00.000Z"
+        },
+        {
+            "title": "Marvel's Spider-Man 2: Digital Deluxe Edition (v.1.526.0.0) + 2 DLC [amd64] [ENG] [Wrapper]",
+            "uris": [
+                "magnet:?xt=urn:btih:8F7D80B46E26A55EABBD050F03F99A6BB9C2DEDB&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "89.71 GB",
+            "uploadDate": "2025-06-12T00:00:00.000Z"
+        },
+        {
+            "title": "Cyber Knights: Flashpoint (2025) (v.2.0.19) [amd64] [ENG] [Unity3D]",
+            "uris": [
+                "magnet:?xt=urn:btih:5E22F8FB3A1F4E62439E8D641C54CEDE0B5ED4C8&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "7.5 GB",
+            "uploadDate": "2025-06-12T00:00:00.000Z"
+        },
+        {
             "title": "Satisfactory [amd64] [Multi] [Wine]",
             "uris": [
                 "magnet:?xt=urn:btih:0DB805E47AB865DB85C3D2348D3237C80C831209&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
@@ -896,14 +928,6 @@
             ],
             "fileSize": "7.31 GB",
             "uploadDate": "2025-05-21T00:00:00.000Z"
-        },
-        {
-            "title": "The Planet Crafter [amd64] [Multi] [Wine]",
-            "uris": [
-                "magnet:?xt=urn:btih:3E9F250A3FFA88357BEDC7AC281DD7F5C24C4C30&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
-            ],
-            "fileSize": "2.78 GB",
-            "uploadDate": "2025-05-20T00:00:00.000Z"
         },
         {
             "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl [amd64] [Multi] [Wine]",
