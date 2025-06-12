@@ -2,6 +2,54 @@
     "name": "RuTracker | Linux",
     "downloads": [
         {
+            "title": "Stellaris (4.0.17 + 31 DLC) [amd64] [Native] [RUS + ENG + 6] [GOG]",
+            "uris": [
+                "magnet:?xt=urn:btih:BABF038BD595F3ABB5E8D4435CADC31633EF30B6&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "16.39 GB",
+            "uploadDate": "2025-06-12T00:00:00.000Z"
+        },
+        {
+            "title": "Satisfactory [amd64] [Multi] [Wine]",
+            "uris": [
+                "magnet:?xt=urn:btih:0DB805E47AB865DB85C3D2348D3237C80C831209&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "12 GB",
+            "uploadDate": "2025-06-11T00:00:00.000Z"
+        },
+        {
+            "title": "Gloomwood [amd64] [ENG] [Wine]",
+            "uris": [
+                "magnet:?xt=urn:btih:67133C1F3D7D6FF08B7169D5E89F2CBF2E1CE19C&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "2.75 GB",
+            "uploadDate": "2025-06-11T00:00:00.000Z"
+        },
+        {
+            "title": "Mandragora: Whispers of the Witch Tree (2025) (v.1.5.2.2365) [amd64] [MULTi] [Wine]",
+            "uris": [
+                "magnet:?xt=urn:btih:7B076D389AECA9761B5364711401E013B000AA70&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "15.46 GB",
+            "uploadDate": "2025-06-11T00:00:00.000Z"
+        },
+        {
+            "title": "Fallout: London (v.1.02.iv2.33r7 build 82625) + Enhanced Settings Manager [amd64] [ENG] [Wine]",
+            "uris": [
+                "magnet:?xt=urn:btih:C4E707CCC9028DA760B75BF59008C835FFD63C4E&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "58.91 GB",
+            "uploadDate": "2025-06-11T00:00:00.000Z"
+        },
+        {
+            "title": "WWE 2K25 (v1.14) + 11 DLC [amd64] [Multi] [Wine]",
+            "uris": [
+                "magnet:?xt=urn:btih:E9C5654F72145A2FBA00ECB603CF1DC18CDEAE8C&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "95.8 GB",
+            "uploadDate": "2025-06-10T00:00:00.000Z"
+        },
+        {
             "title": "Cyber Knights: Flashpoint (2025) (v.2.0.17) [amd64] [ENG] [Unity3D]",
             "uris": [
                 "magnet:?xt=urn:btih:9E41CBE3E4FB2886ABC0217B5AF5D3710AEF68CA&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
@@ -695,14 +743,6 @@
                 "magnet:?xt=urn:btih:C744379FCD3B9582D5E431AF218C4AE0F3F7764A&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
             ],
             "fileSize": "79.95 GB",
-            "uploadDate": "2025-05-23T00:00:00.000Z"
-        },
-        {
-            "title": "Satisfactory [amd64] [Multi] [Wine]",
-            "uris": [
-                "magnet:?xt=urn:btih:0DB0EDD34E7CF7E0763263D6D456E4F5EA47CC56&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
-            ],
-            "fileSize": "12.17 GB",
             "uploadDate": "2025-05-23T00:00:00.000Z"
         },
         {
@@ -3087,14 +3127,6 @@
                 "magnet:?xt=urn:btih:D27E15646617D1A1EC806FB791D9BB2C914ACF01&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
             ],
             "fileSize": "5.45 GB",
-            "uploadDate": "2025-03-20T00:00:00.000Z"
-        },
-        {
-            "title": "Gloomwood [amd64] [ENG] [Wine]",
-            "uris": [
-                "magnet:?xt=urn:btih:E3769DC98C1660EACBC6C799CDE0DA3A545B1E93&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
-            ],
-            "fileSize": "568.3 MB",
             "uploadDate": "2025-03-20T00:00:00.000Z"
         },
         {
