@@ -2,6 +2,14 @@
     "name": "RuTracker | Linux",
     "downloads": [
         {
+            "title": "inZOI (v.20250612.4545.W) [amd64] [MULTi] [Wine]",
+            "uris": [
+                "magnet:?xt=urn:btih:67DC15C294FB0C3715C7961B5029FF7E5155B096&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "22.17 GB",
+            "uploadDate": "2025-06-13T00:00:00.000Z"
+        },
+        {
             "title": "Stellaris (4.0.17 + 31 DLC) [amd64] [Native] [RUS + ENG + 6] [GOG]",
             "uris": [
                 "magnet:?xt=urn:btih:BABF038BD595F3ABB5E8D4435CADC31633EF30B6&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
@@ -39,6 +47,14 @@
                 "magnet:?xt=urn:btih:5E22F8FB3A1F4E62439E8D641C54CEDE0B5ED4C8&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
             ],
             "fileSize": "7.5 GB",
+            "uploadDate": "2025-06-12T00:00:00.000Z"
+        },
+        {
+            "title": "Workers & Resources: Soviet Republic [amd64] [Multi] [Wine]",
+            "uris": [
+                "magnet:?xt=urn:btih:39F284F7E3BE65C654137FF00C099D7740AD87AF&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "4.48 GB",
             "uploadDate": "2025-06-12T00:00:00.000Z"
         },
         {
@@ -647,14 +663,6 @@
                 "magnet:?xt=urn:btih:AA1A55148022D01CD42DE896AE84F0CB843A5E2B&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
             ],
             "fileSize": "527.2 MB",
-            "uploadDate": "2025-05-25T00:00:00.000Z"
-        },
-        {
-            "title": "Workers & Resources: Soviet Republic [amd64] [Multi] [Wine]",
-            "uris": [
-                "magnet:?xt=urn:btih:0ABB381444A309BAB042D0FACB9F908509BBA5D4&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
-            ],
-            "fileSize": "4.43 GB",
             "uploadDate": "2025-05-25T00:00:00.000Z"
         },
         {
