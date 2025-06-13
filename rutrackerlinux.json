@@ -10,6 +10,14 @@
             "uploadDate": "2025-06-13T00:00:00.000Z"
         },
         {
+            "title": "SnowRunner - Premium Edition [amd64] [Multi] [Wine]",
+            "uris": [
+                "magnet:?xt=urn:btih:CA8E376EC9BAD33DBF475941F9233D565E01C217&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "40.41 GB",
+            "uploadDate": "2025-06-13T00:00:00.000Z"
+        },
+        {
             "title": "Stellaris (4.0.17 + 31 DLC) [amd64] [Native] [RUS + ENG + 6] [GOG]",
             "uris": [
                 "magnet:?xt=urn:btih:BABF038BD595F3ABB5E8D4435CADC31633EF30B6&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
@@ -2368,14 +2376,6 @@
             ],
             "fileSize": "1.94 GB",
             "uploadDate": "2025-04-17T00:00:00.000Z"
-        },
-        {
-            "title": "SnowRunner - Premium Edition [amd64] [Multi] [Wine]",
-            "uris": [
-                "magnet:?xt=urn:btih:9516A90FF821A98E1613EDD19FF3FCE74EC915DC&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
-            ],
-            "fileSize": "39.71 GB",
-            "uploadDate": "2025-04-16T00:00:00.000Z"
         },
         {
             "title": "Lies of P [amd64] [Multi] [Wine]",
