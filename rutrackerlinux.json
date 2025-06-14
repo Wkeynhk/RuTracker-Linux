@@ -2,6 +2,38 @@
     "name": "RuTracker | Linux",
     "downloads": [
         {
+            "title": "RoadCraft [amd64] [Multi] [Wine]",
+            "uris": [
+                "magnet:?xt=urn:btih:94A42FFF6FB5323D4DB239870AAA09F1EB9B3FAB&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "49.13 GB",
+            "uploadDate": "2025-06-14T00:00:00.000Z"
+        },
+        {
+            "title": "Northgard: Gardariki Clan of the Hippogriff - The Viking Age Edition (v.3.7.27.42134 build 82791) [x86, amd64] [ENG] [GOG]",
+            "uris": [
+                "magnet:?xt=urn:btih:C1C6334B14F5D50546EF6C0EB50498640E7B5D19&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "1.87 GB",
+            "uploadDate": "2025-06-14T00:00:00.000Z"
+        },
+        {
+            "title": "Factorio (+ Space Age) [amd64 + i386] [Multi] [Native] (2.0.55 + 1.1.110 + 0.14.23)",
+            "uris": [
+                "magnet:?xt=urn:btih:50F44FD8D9F7CE7A9DD32F162B24D3FF83AAB50A&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "6.82 GB",
+            "uploadDate": "2025-06-14T00:00:00.000Z"
+        },
+        {
+            "title": "Stellaris (4.0.20 + 31 DLC) [amd64] [Native] [RUS + ENG + 6] [GOG]",
+            "uris": [
+                "magnet:?xt=urn:btih:9295D61FF12F4FD1E6C091906FFFFCD6CC7F91DA&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "16.39 GB",
+            "uploadDate": "2025-06-14T00:00:00.000Z"
+        },
+        {
             "title": "inZOI (v.20250612.4545.W) [amd64] [MULTi] [Wine]",
             "uris": [
                 "magnet:?xt=urn:btih:67DC15C294FB0C3715C7961B5029FF7E5155B096&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
@@ -15,6 +47,14 @@
                 "magnet:?xt=urn:btih:CA8E376EC9BAD33DBF475941F9233D565E01C217&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
             ],
             "fileSize": "40.41 GB",
+            "uploadDate": "2025-06-13T00:00:00.000Z"
+        },
+        {
+            "title": "Barony (4.3.2.2025.06.12 + 2 DLC) [amd64] [ENG] [Native] [GOG]",
+            "uris": [
+                "magnet:?xt=urn:btih:502502D84589BB7A3B6FC23F7BD6B5FC969E4D28&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "2.11 GB",
             "uploadDate": "2025-06-13T00:00:00.000Z"
         },
         {
